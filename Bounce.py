@@ -39,4 +39,3 @@ while True:
         ball.update()
     tk.update()
     time.sleep(.001)
-
